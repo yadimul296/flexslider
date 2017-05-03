@@ -82,8 +82,8 @@ html[xmlns] .slides { display: block; }
 
 /* Edit it if you want */
 .flex-container {
-	min-width: 150px;
-	max-width: 960px;
+	min-width: 320px;
+	max-width: 520px;
 }
 
 .flexslider .slides { zoom: 1; }
@@ -207,9 +207,6 @@ html[xmlns] .slides { display: block; }
 	-moz-box-shadow: none;
 	box-shadow: none;
 }
-
-
-
 /* Captions */
 .flexslider .slides p {
 	display: block;
