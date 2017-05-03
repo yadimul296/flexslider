@@ -41,7 +41,7 @@ http://vladimirkudinov.com
 }
 
 .flexslider .slides img {
-	width: 100%;
+	width: 500px;
 	display: block;
 
 	-webkit-border-radius: 2px;
@@ -166,7 +166,7 @@ html[xmlns] .slides { display: block; }
 /* Control Nav */
 .flexslider .flex-control-nav {
 	position: absolute;
-	width: 100%;
+	width: 500px;
 	bottom: -40px;
 	text-align: center;
 	margin: 0 0 0 -10px;
